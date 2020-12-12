@@ -13,9 +13,11 @@
 - ⚡ Fun fact: Depending where I am, people call me Alex, Alessandro, Aleiandro...
 -->
 ## Talk with me
+
 [<img align="left" alt="LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alejandro-rene-valdivia/)
 
-#Tools and Languages
+## Tools and Languages
+
 <img height="40" alt="css" src="https://raw.githubusercontent.com/serendatapy/serendatapy/main/assets/css3-original.svg">
 <img height="40" alt="docker" src="https://raw.githubusercontent.com/serendatapy/serendatapy/main/assets/docker-original.svg">
 <img height="40" alt="express" src="https://raw.githubusercontent.com/serendatapy/serendatapy/main/assets/express-original.svg">
