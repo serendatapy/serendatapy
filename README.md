@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Depending where I am, people call me Alex, Alessandro, Aleiandro...
-- :wave: Say Hi: [<img align="left" img height="20" alt="LinkedIn Profile" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alejandro-rene-valdivia/)
+- :wave: Say Hi: [<img align="left" img height="20" alt="LinkedIn Profile" src="https://github.com/serendatapy/serendatapy/blob/main/assets/linkedin.gif" />](https://www.linkedin.com/in/alejandro-rene-valdivia/)
 <br>
 
 ## Tools and Languages
