@@ -28,5 +28,8 @@
 
 ## GitHub Stats
 
+<p align="center">
 
-![Alejandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=serendatapy&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=serendatapy&hide=stars&show_icons=true&theme=dracula&line_height=32"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serendatapy&count_private=true&theme=dracula&line_height=32">
+
+</p>
