@@ -25,6 +25,6 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=serendatapy&hide=stars&show_icons=true&theme=solarized-light&line_height=40"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serendatapy&count_private=true&theme=solarized-light&line_height=40">
+<img src="https://github-readme-stats.vercel.app/api?username=serendatapy&hide=stars&show_icons=true&theme=kacho_ga&line_height=40"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serendatapy&count_private=true&theme=kacho_ga&line_height=40">
 
 </p>
