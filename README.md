@@ -1,6 +1,6 @@
 ## Hey there 👋 I'm Alejandro, Full stack dev, Globe Trotter and Father 
 
-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> 🔭 I’m currently working on React Projects [Bid Local](https://github.com/Snugles/bid-local),[Huntdora](https://github.com/serendatapy/huntdora),[Catcalls of Amsterdam](https://github.com/lisannekraal/catcall)
+- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> 🔭 I’m currently working on React Projects [Huntdora](https://github.com/serendatapy/huntdora),[Catcalls of Amsterdam](https://github.com/lisannekraal/catcall), [Bid Local](https://github.com/Snugles/bid-local)
 
 - 🌱 I’m currently learning about DevOps focusing on deployment
 - 👯 I’m looking to collaborate on open source projects
